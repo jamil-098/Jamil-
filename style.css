@@ -266,7 +266,7 @@ a {
 
 .progetto-immagine {
   width: 100%;
-  height: 100px;
+  height: 180px;
   background: var(--colore-card);
   display: flex;
   align-items: center;
